@@ -1,0 +1,30 @@
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\Kim Milyoner Olmak İster.exe.config
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\Kim Milyoner Olmak İster.exe
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\Kim Milyoner Olmak İster.pdb
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.csprojResolveAssemblyReference.cache
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim_Milyoner_Olmak_İster.Form1.resources
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim_Milyoner_Olmak_İster.Form2.resources
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim_Milyoner_Olmak_İster.Properties.Resources.resources
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.csproj.GenerateResource.Cache
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.exe
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.pdb
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\Interop.WMPLib.dll
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Interop.WMPLib.dll
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cengi\Desktop\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.csproj.ResolveComReference.cache
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\Kim Milyoner Olmak İster.exe.config
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Interop.WMPLib.dll
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\AxInterop.WMPLib.dll
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.csproj.ResolveComReference.cache
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.exe
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.pdb
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\Kim Milyoner Olmak İster.exe
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\Kim Milyoner Olmak İster.pdb
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\Interop.WMPLib.dll
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\bin\Debug\AxInterop.WMPLib.dll
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.csprojResolveAssemblyReference.cache
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim_Milyoner_Olmak_İster.Form1.resources
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim_Milyoner_Olmak_İster.Form2.resources
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim_Milyoner_Olmak_İster.Properties.Resources.resources
+H:\Kim Milyoner Olmak İster\Kim Milyoner Olmak İster\obj\Debug\Kim Milyoner Olmak İster.csproj.GenerateResource.Cache
